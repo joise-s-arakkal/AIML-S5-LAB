@@ -1,0 +1,14 @@
+Please enter your name: Nikhil
+Do you have fever? (y/n): y
+Do you have rashes? (y/n): y
+Do you have headache? (y/n): n
+Do you have running nose? (y/n): y
+Do you have conjunctivitis? (y/n): n
+Do you have cough? (y/n): y
+Do you have ache? (y/n): y
+Do you have chills? (y/n): y
+Do you have swollen glands? (y/n): n
+Do you have sneezing? (y/n): y
+Do you have sore throat? (y/n): y
+Nikhil, based on the symptoms provided, you may have: chickenpox.
+

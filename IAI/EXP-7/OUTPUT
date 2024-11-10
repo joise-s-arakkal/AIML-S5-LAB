@@ -1,0 +1,29 @@
+******PREPOSITIONAL LOGIC INFERENCES FOR AI TASKS********
+N̲E̲G̲A̲T̲I̲O̲N
+p result
+True False
+False True
+C̲O̲N̲J̲U̲C̲T̲I̲O̲N̲(̲A̲N̲D̲ ̲O̲P̲E̲R̲A̲T̲I̲O̲N̲)
+p q result
+True True True
+True False False
+False True False
+False False False
+D̲I̲S̲J̲U̲N̲C̲T̲I̲O̲N̲(̲O̲R̲ ̲O̲P̲E̲R̲A̲T̲I̲O̲N̲)
+p q result
+True True True
+True False True
+False True True
+False False False
+E̲X̲C̲L̲U̲S̲I̲V̲E̲ ̲D̲I̲S̲J̲U̲N̲C̲T̲I̲O̲N̲(̲X̲O̲R̲ ̲O̲P̲E̲R̲A̲T̲I̲O̲N̲)
+p q result
+True True False
+True False True
+False True True
+False False False
+I̲M̲P̲L̲I̲C̲A̲T̲I̲O̲N
+p q result
+True True True
+True False False
+False True True
+False False True

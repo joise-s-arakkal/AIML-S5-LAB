@@ -1,0 +1,7 @@
+aiml@Student:~/Desktop/S5_AIML_29/IAI/EXP-4$ python3 AStar.py 
+Path found: ['A', 'C', 'D']
+aiml@Student:~/Desktop/S5_AIML_29/IAI/EXP-4$ python3 BestFirstSearch.py
+Path found: ['A', 'C', 'F', 'G']
+aiml@Student:~/Desktop/S5_AIML_29/IAI/EXP-4$ python3 AStar.py 
+Path found: ['A', 'C', 'D']
+aiml@Student:~/Desktop/S5_AIML_29/IAI/EXP-4$ 

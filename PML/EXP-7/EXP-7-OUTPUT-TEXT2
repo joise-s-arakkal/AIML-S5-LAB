@@ -1,0 +1,4 @@
+aiml@Student:~/Desktop/S5_AIML_29/PML/EXP-7$ python3 MultivariableLinearRegression.py 
+Mean Squared Error: 65923558.16237514
+R-Squared Error: 0.8670608350178097
+
